@@ -1,0 +1,22 @@
+<x-app-layout>
+
+    <div class="py-8">
+    </div>
+
+
+@if (session()->has('success'))
+<div class="alert alert-success">
+    {{ session()->get('success') }}
+</div>
+@endif
+@if (session()->has('error'))
+<div class="alert alert-success">
+    {{ session()->get('success') }}
+</div>
+@endif
+
+
+
+
+
+</x-app-layout>

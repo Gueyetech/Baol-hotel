@@ -1,0 +1,129 @@
+Bien sûr ! Explorons en détail chacun des services mentionnés :
+
+1. **Hébergement** :
+   - Les hôtels proposent différents types de chambres adaptées aux besoins et aux préférences des clients. Cela peut inclure des chambres simples, doubles, familiales, des suites, etc. Les chambres peuvent également varier en termes de taille, de vue, d'aménagement et d'équipements.
+
+2. **Restauration** :
+   - **Restaurant(s)** : Les hôtels peuvent avoir un ou plusieurs restaurants proposant une gamme de plats pour le petit-déjeuner, le déjeuner et le dîner. Les restaurants peuvent offrir une cuisine locale, internationale ou spécialisée.
+   - **Service en chambre (room service)** : Les clients peuvent commander des repas et des boissons depuis le confort de leur chambre à tout moment de la journée.
+   - **Bar(s)** : Les hôtels peuvent avoir des bars où les clients peuvent déguster des boissons alcoolisées et non alcoolisées, ainsi que des collations légères.
+
+3. **Équipements** :
+   - **Piscine(s)** : Les hôtels peuvent proposer des piscines intérieures et/ou extérieures pour la détente et les loisirs des clients.
+   - **Centre de remise en forme** : Un espace équipé de machines de cardio-training, de musculation et parfois de cours de fitness pour permettre aux clients de maintenir leur routine d'exercice pendant leur séjour.
+   - **Installations sportives** : Les hôtels peuvent offrir des terrains de tennis, des terrains de golf, des terrains de volley-ball ou d'autres installations sportives pour les activités récréatives.
+   - **Centre d'affaires** : Des installations et des services sont mis à disposition des clients pour leurs besoins professionnels, tels que des salles de réunion, des équipements audiovisuels, des services de secrétariat, etc.
+
+4. **Divertissement** :
+   - **Services de divertissement** : Certains hôtels proposent des animations en soirée, des spectacles, des concerts ou d'autres événements pour divertir les clients.
+   - **Activités pour enfants** : Les hôtels peuvent avoir des clubs pour enfants, des aires de jeux ou des programmes d'activités spécialement conçus pour divertir les plus jeunes clients.
+
+5. **Services aux clients** :
+   - **Réception 24h/24** : Une équipe est disponible 24h/24 pour aider les clients pour le check-in, le check-out et répondre à leurs questions et demandes.
+   - **Wi-Fi gratuit** : Accès à Internet sans fil gratuit dans tout l'hôtel pour les clients.
+   - **Service de blanchisserie** : Les clients peuvent faire laver et repasser leurs vêtements pendant leur séjour à l'hôtel.
+   - **Parking** : Des espaces de stationnement sont disponibles pour les clients, généralement moyennant des frais.
+   - **Service de navette** : Des navettes sont mises à disposition pour le transport des clients vers/depuis l'aéroport ou d'autres destinations locales.
+
+6. **Services aux entreprises** :
+   - **Salles de réunion et de conférence** : Des espaces sont disponibles pour les réunions, les conférences, les séminaires et d'autres événements professionnels.
+   - **Services de secrétariat** : Des services de secrétariat, tels que la photocopie, la télécopie, l'impression, etc., peuvent être proposés aux clients.
+
+7. **Services supplémentaires** :
+   - **Services de bien-être** : Des services de spa, de massage et de soins du visage peuvent être proposés pour la relaxation et le bien-être des clients.
+   - **Location de voitures** : Les hôtels peuvent avoir des partenariats avec des sociétés de location de voitures pour faciliter les déplacements des clients pendant leur séjour.
+   - **Visites guidées et excursions** : Des visites touristiques organisées ou des excursions peuvent être disponibles pour permettre aux clients de découvrir les attractions locales.
+
+8. **Services de sécurité** :
+   - **Coffres-forts** : Des coffres-forts sont disponibles dans les chambres ou à la réception pour que les clients puissent sécuriser leurs objets de valeur.
+   - **Service de sécurité 24h/24** : Une équipe de sécurité est présente en permanence pour assurer la sécurité des clients et de leurs biens.
+
+9. **Services pour les personnes à mobilité réduite** :
+   - Les hôtels peuvent offrir des chambres et des installations accessibles aux personnes à mobilité réduite, telles que des rampes, des ascenseurs adaptés, des salles de bains accessibles, etc.
+
+10. **Autres** :
+    - **Animaux domestiques admis** : Certains hôtels acceptent les animaux de compagnie et offrent des services adaptés pour eux.
+    - **Boutique de souvenirs** : Une boutique peut être présente à l'intérieur de l'hôtel proposant des souvenirs, des articles de première nécessité et d'autres produits.
+    - **Services religieux** : Certains hôtels peuvent avoir une chapelle ou une salle de prière pour répondre aux besoins spirituels de leurs clients.
+
+Ces services peuvent varier d'un hôtel à un autre en fonction de divers facteurs tels que la catégorie de l'hôtel, son emplacement, ses installations, etc.
+
+
+
+
+
+
+
+
+2 personnes
+1 grand lit
+Accès Wi-Fi gratuit
+Petit-déjeuner gratuit
+Équipements de la chambre
+Accessibilité
+TV avec sous-titrage pour personnes sourdes et malentendantes
+Alarme incendie visuelle
+Accessible aux personnes à mobilité réduite
+Portes permettant le passage des fauteuils roulants
+Largeur des portes permettant le passage des fauteuils roulants (en cm) : 150
+Salle de bain
+Articles de toilette de luxe
+Sèche-cheveux
+Salle de bain privée
+Shampoing
+Douche
+Savon
+Papier toilette
+Brosses à dents et dentifrice non fournis
+Serviettes
+Chambre
+Draps
+Rideaux occultants
+Réglage de la climatisation
+Réglage du chauffage
+Aucun lit bébé fourni
+Divertissement
+Télévision avec chaînes satellite
+Télévision connectée
+Nourriture et boissons
+Eau minérale gratuite
+Minibar (des frais peuvent s’appliquer)
+Service en chambre (limité)
+Internet
+Accès Wi-Fi à Internet gratuit
+Accès à Internet par câble (en supplément)
+Autres
+Service de ménage quotidien
+Bureau
+Adaptateurs/chargeurs électriques
+Interrupteurs à économie d'énergie
+Remplacement des serviettes tous les 2 jours
+Service de massage en chambre
+Fer et planche à repasser (sur demande)
+Espace de travail pour ordinateur portable
+Ampoules LED
+Téléphone
+Coffre-fort dans la chambre
+Garde-robe ou placard
+
+
+
+
+
+Swal.fire({
+  title: "Are you sure?",
+  text: "You won't be able to revert this!",
+  icon: "warning",
+  showCancelButton: true,
+  confirmButtonColor: "#3085d6",
+  cancelButtonColor: "#d33",
+  confirmButtonText: "Yes, delete it!"
+}).then((result) => {
+  if (result.isConfirmed) {
+    Swal.fire({
+      title: "Deleted!",
+      text: "Your file has been deleted.",
+      icon: "success"
+    });
+  }
+});
